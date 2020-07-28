@@ -16,6 +16,6 @@ public class SampleDeployClass {
     }
     
     public static void helloMethod() {
-        System.debug('Hello World Bhavesh');
+        System.debug('Hello World Bhavesh Jogi');
     }
 }
